@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "Laser procedures",
+		"image": "https://i.ibb.co/wrxHLwn/services6.jpg",
+		"description": "Laser surgery is a type of surgery that uses special light beams instead of instruments for surgical procedures. LASER stands for 'Light Amplification by the Stimulated Emission of Radiation.' Lasers were first developed in 1960.Laser resurfacing can decrease the appearance of fine lines in the face. It can also treat loss of skin tone and improve your complexion if you have scars or sun damage. Laser resurfacing can't eliminate excessive or sagging skin"
+	},
+	{
+		"id": 2,
+		"name": "Cardiology",
+		"image": "https://i.ibb.co/qYBPqGH/services2.jpg",
+		"description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology.A cardiologist is a doctor who specializes in treating diseases of the cardiovascular system — mainly the heart and blood vessels. In order to become a cardiologist, a physician must attend four years of medical school and an additional six to eight years of internal medicine and specialized cardiology training."
+	},
+	{
+		"id": 3,
+		"name": "Surgery",
+		"image": "https://i.ibb.co/z7Xp44S/services3.jpg",
+		"description": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.Surgery is medical treatment provided through an opening in the body. Traditionally, this meant making a large incision to perform the procedure, but advances in technology allow for making a few small (less than 1 centimeter) incisions and using tiny tools and cameras"
+	},
+	{
+		"id": 4,
+		"name": "Manual therapy",
+		"image": "https://i.ibb.co/rxPb7Bn/services4.jpg",
+		"description": "Manual therapy, or manipulative therapy, is a physical treatment primarily used by physical therapists, physiotherapists, occupational therapists to treat musculoskeletal pain and disability; it mostly includes kneading and manipulation of muscles, joint mobilization and joint manipulation.Manual therapy involves the application of force to joints, muscles and neural tissues to facilitate improved function. This may be achieved by increasing the range of motion of joints, reducing swelling or enhancing skeletal alignment. Manual therapy can be applied during and following the acute phase of the injury."
+	},
+	{
+		"id": 5,
+		"name": "Computed tomography (CT)",
+		"image": "https://i.ibb.co/7gMWHTH/services1.jpg",
+		"description": "A CT scan or computed tomography scan (formerly known as computed axial tomography or CAT scan) is a medical imaging technique used in radiology to get detailed images of the body noninvasively for diagnostic purposes. The personnel that perform CT scans are called radiographers or radiology technologists.[2][3]CT scanners use a rotating X-ray tube and a row of detectors placed in the gantry to measure X-ray attenuations by different tissues inside the body. The multiple X-ray measurements taken from different angles are then processed on a computer using reconstruction algorithms to produce tomographic (cross-sectional)."
+	},
+	{
+		"id": 6,
+		"name": "Personal psychologist",
+		"image": "https://i.ibb.co/jwv1zcR/services5.jpg",
+		"description": "Personnel psychology is the area of industrial/organizational psychology that primarily deals with the recruitment, selection and evaluation of personnel, and other job aspects such as morale, job satisfaction, and relationships between managers and workers in the workplace.Professionals who study personality psychology want to understand how personality develops as well as how it influences the way we think and behave. Psychologists look at how personality varies among individuals as well as how people are similar. They also assess, diagnose, and treat personality disorders."
+	}
+]
